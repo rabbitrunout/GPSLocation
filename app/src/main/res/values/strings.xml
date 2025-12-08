@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GPSLocation</string>
+    <string name="latitude_longitude">Latitude / Longitude</string>
+    <string name="address">Address</string>
+    <string name="gps_location">GPS Location</string>
+    <string name="compass">Compass</string>
+    <string name="compass_bearing_0">Compass Bearing: 0</string>
+    <string name="compass2">Compass</string>
+</resources>
